@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya Vaddhiparthy</h1>
 <h3 align="center">Data Science and Data Analytics Professional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srisuryasv&label=Profile%20views&color=0e75b6&style=flat" alt="srisuryasv" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://vaddhiparthy.com/projects](https://vaddhiparthy.com/projects)
 
 - 💬 Ask me about **Python, R, SQL**
