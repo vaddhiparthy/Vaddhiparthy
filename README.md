@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SriSuryaSV
 
--I’m interested in Data analytics and Visualization
+- I’m interested in Data analytics and Visualization
 
 - Currently look for opportunities in Data Science and Analytics
 
