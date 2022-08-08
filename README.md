@@ -2,10 +2,7 @@
 
 -I’m interested in Data analytics and Visualization
 
-- About
-Experienced Data Analyst | Data Science Grad Student | 
-Double Scholarship recipient - Outstanding Grad Student | Seeking full-time | 
-Python, R, SQL, Tableau, Machine Learning, Statistical Analysis | 2022 Graduation
+- Currently look for opportunities in Data Science and Analytics
 
 - 📫 How to reach me
 Email: vaddhiparthy@outlook.com
