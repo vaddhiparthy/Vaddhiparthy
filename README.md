@@ -8,7 +8,7 @@
 
   Email: vaddhiparthy@outlook.com
   
-  LinkedIn:linkedin.com/in/SriSuryaSV
+  LinkedIn:https://www.linkedin.com/in/SriSuryaSV
   
   Portfolio: https://vaddhiparthy.com/projects
 
