@@ -13,7 +13,7 @@
   Portfolio: https://vaddhiparthy.com/projects
 
 
-[![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriSuryaSV&hide=contribs,prs)]
+[![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriSuryaSV&hide=contribs,issues)]
 
 <!---
 SriSuryaSV/SriSuryaSV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
