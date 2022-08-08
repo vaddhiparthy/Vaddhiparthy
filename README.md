@@ -1,13 +1,15 @@
 - 👋 Hi, I’m Surya
 
--I’m interested in Data analytics and Visualization
+- I’m interested in Data analytics and Visualization
 
 - Currently looking for opportunities in Data Science and Analytics
 
 - 📫 How to reach me
 
   Email: vaddhiparthy@outlook.com
+  
   LinkedIn:linkedin.com/in/SriSuryaSV
+  
   Portfolio: https://vaddhiparthy.com/projects
 
 <!---
