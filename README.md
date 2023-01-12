@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Surya Vaddhiparthy</h1>
+<h1 align="center"> Surya's Portfolio</h1>
 <h3 align="center">Data Science and Data Analytics Professional</h3>
 
 Welcome to my GitHub profile! Here, you can find an array of data-related projects that showcase my skills and experience in various data tools and technologies. My expertise includes utilizing tools like Tableau Server, Microsoft Power BI, and MS Excel to create advanced reporting, analytics, dashboards, and visualization. I am also well-versed in programming languages such as SQL, Python (using libraries like NumPy, Pandas, and PySpark), SAS, and R for data analysis and modeling.
