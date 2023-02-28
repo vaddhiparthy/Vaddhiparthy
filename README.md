@@ -1,9 +1,13 @@
 <h1 align="center"> Surya's Portfolio</h1>
 <h3 align="center">Data Science and Data Analytics Professional</h3>
 
-Welcome to my GitHub profile! Here, you can find an array of data-related projects that showcase my skills and experience in various data tools and technologies. My expertise includes utilizing tools like Tableau Server, Microsoft Power BI, and MS Excel to create advanced reporting, analytics, dashboards, and visualization. I am also well-versed in programming languages such as SQL, Python (using libraries like NumPy, Pandas, and PySpark), SAS, and R for data analysis and modeling.
+Welcome to my GitHub profile! I'm a data scientist with a keen interest in machine learning and data analysis. With my experience in various machine learning techniques, including neural networks, decision trees, and k-means clustering, I strive to develop models that can help solve complex real-world problems.
 
-I am experienced in various data related tasks such as ETL, data wrangling, data pipeline, and modeling, utilizing tools such as Azure Databricks, AWS and Google Big Query. Additionally, I have a solid understanding of statistical concepts such as Advanced Regression, Classification, Time Series Forecasting, and A/B Testing that I have applied to real-world projects.
+My expertise extends to several programming languages, such as Python, SQL, R, and MATLAB, and I have hands-on experience working with databases like Amazon Redshift, Snowflake, and MySQL. I am also familiar with data integration and management techniques like ETL and AWS Snowflake.
+
+When it comes to data visualization, I leverage tools such as Tableau, Microsoft Excel, and PowerBI to present insights in a compelling and understandable manner.
+
+On my GitHub page, you'll find several projects that showcase my skills and knowledge. These include projects like location selection using k-means clustering, credit risk evaluation using machine learning, and forest fire estimation using machine learning.
 
 I hope my portfolio will be useful for you to evaluate my skills and potential. I would love the opportunity to demonstrate my abilities and skills through contributing to your projects, collaborating or discussing new projects. Please do not hesitate to reach out to me if you have any questions or are interested in working together.
 
