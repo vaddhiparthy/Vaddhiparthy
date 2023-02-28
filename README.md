@@ -1,7 +1,7 @@
 <h1 align="center"> Surya's Portfolio</h1>
 <h3 align="center">Data Science and Data Analytics Professional</h3>
 
-Welcome to my GitHub profile! I'm a data scientist with a keen interest in machine learning and data analysis. With my experience in various machine learning techniques, including neural networks, decision trees, and k-means clustering, I strive to develop models that can help solve complex real-world problems.
+Welcome to my GitHub profile! I'm a data scientist with experience in various machine learning techniques, including neural networks, decision trees, and k-means clustering, I strive to develop models that can help solve complex real-world problems.
 
 My expertise extends to several programming languages, such as Python, SQL, R, and MATLAB, and I have hands-on experience working with databases like Amazon Redshift, Snowflake, and MySQL. I am also familiar with data integration and management techniques like ETL and AWS Snowflake.
 
