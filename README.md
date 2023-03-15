@@ -1,7 +1,7 @@
 <h1 align="center"> Surya's Portfolio</h1>
 <h3 align="center">Data Science and Data Analytics Professional</h3>
 
-Welcome to my GitHub profile! I am a data scientist specializing in natural language processing (NLP) and machine learning techniques. My expertise lies in designing, implementing, and optimizing NLP algorithms and models to tackle complex real-world problems.
+Welcome to my GitHub profile! I am a data scientist specializing in natural language processing (NLP) and machine learning techniques. My expertise lies in designing, implementing, and optimizing NLP algorithms and models.  I strive to develop models that can help solve complex real-world problems.
 
 I have extensive experience working with various programming languages, including Python, SQL, R, and MATLAB, as well as proficiency in utilizing databases like Amazon Redshift, Snowflake, and MySQL. My knowledge extends to data integration and management techniques such as ETL and AWS Snowflake.
 
