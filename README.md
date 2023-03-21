@@ -1,4 +1,4 @@
-<h1 align="center"> Surya's Portfolio</h1>
+<h1 align="center"> Vaddhiparthy's Portfolio</h1>
 <h3 align="center">Data Science and Data Analytics Professional</h3>
 
 Welcome to my GitHub profile! I am a data scientist specializing in natural language processing (NLP) and machine learning techniques. My expertise lies in designing, implementing, and optimizing NLP algorithms and models.  I strive to develop models that can help solve complex real-world problems.
