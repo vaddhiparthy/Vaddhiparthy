@@ -11,6 +11,9 @@ My GitHub portfolio showcases a diverse array of projects that demonstrate my ad
 
 I am confident that my portfolio will provide you with a comprehensive understanding of my technical capabilities and potential. I welcome the opportunity to contribute to your projects, collaborate, or discuss new ventures. Please do not hesitate to contact me if you have any questions or are interested in working together.
 
+<a href="https://public.tableau.com/app/profile/vaddhiparthy">My Tableau Profile</a>
+
+<a href="https://leetcode.com/Vaddhiparthy/">My Leetcode Profile</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
