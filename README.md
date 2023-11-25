@@ -1,7 +1,7 @@
 <h1 align="center"> Vaddhiparthy's Portfolio</h1>
 <h3 align="center">Data Professional</h3>
 
-Welcome to my GitHub profile! I am a data professional specializing in natural language processing (NLP) and machine learning techniques. My expertise lies in designing, implementing, and optimizing ML and NLP models. 
+Welcome to my GitHub profile! I am a data professional specializing in natural language processing (NLP) and machine learning (ML) techniques. My expertise lies in designing, implementing, and optimizing ML and NLP models. 
 
 I have extensive experience working with various programming languages, including Python, SQL, R, and MATLAB, as well as proficiency in utilizing databases like Amazon Redshift, Snowflake, and MySQL. My knowledge extends to data integration and management techniques such as ETL and AWS Snowflake.
 
