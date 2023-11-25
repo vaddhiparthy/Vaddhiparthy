@@ -9,7 +9,7 @@ In terms of data visualization, I use tools like Tableau, Microsoft Excel, and P
 
 My GitHub portfolio showcases a diverse array of projects. Sentiment analysis on blog authorship and play store reviews, fine-tuning GPT models, and building sophisticated text classification systems. Additionally, you'll find projects in other domains, such as location selection using k-means clustering, credit risk evaluation using machine learning, and forest fire estimation using machine learning.
 
-I am confident that my portfolio will provide you with a comprehensive understanding of my technical capabilities and potential. I welcome the opportunity to contribute to your projects, collaborate, or discuss new ventures. Please do not hesitate to contact me if you have any questions or are interested in working together.
+I welcome the opportunity to contribute to your projects, collaborate, or discuss new ventures. 
 
 <a href="https://public.tableau.com/app/profile/vaddhiparthy">My Tableau Profile</a>
 
