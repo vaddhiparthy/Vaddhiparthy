@@ -1,15 +1,11 @@
 <h1 align="center"> Vaddhiparthy's Portfolio</h1>
 <h3 align="center">Data Professional</h3>
 
-Welcome to my GitHub profile! I am a data professional specializing in natural language processing (NLP) and machine learning (ML) techniques. 
+I am a data professional with expertise in programming, databases, cloud platforms, and data visualization.
 
-I have extensive experience working with various programming languages, including Python, SQL, R, and MATLAB, as well as proficiency in utilizing databases like Amazon Redshift, Snowflake, and MySQL. My knowledge extends to data integration and management techniques such as ETL and AWS Snowflake.
+My portfolio showcases projects that focus on applying machine learning, natural language processing, predictive analytics, and scalable data workflows to solve real-world challenges.
 
-In terms of data visualization, I use tools like Tableau, Microsoft Excel, and PowerBI to present insights.
-
-My GitHub portfolio showcases a diverse array of projects. Sentiment analysis on blog authorship and play store reviews, fine-tuning GPT models, and building sophisticated text classification systems. Additionally, you'll find projects in other domains, such as location selection using k-means clustering, credit risk evaluation using machine learning, and forest fire estimation using machine learning.
-
-I welcome the opportunity to contribute to your projects, collaborate, or discuss new ventures. 
+I am always eager to collaborate on innovative projects and share knowledge within the data science and engineering community. Let’s connect to create impactful solutions!
 
 <a href="https://public.tableau.com/app/profile/vaddhiparthy">My Tableau Profile</a>
 
