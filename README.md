@@ -1,20 +1,35 @@
-<h1 align="center"> Vaddhiparthy's Portfolio</h1>
-<h3 align="center">Data Professional</h3>
+# Vaddhiparthy's Portfolio
 
-I am a data professional with expertise in programming, databases, cloud platforms, and data visualization.
+I’m a data engineer with 7+ years of experience building scalable data ecosystems that power business intelligence and analytics. My expertise spans cloud platforms, ETL automation, and compliance-driven data solutions—helping organizations transform raw information into trusted, actionable insights. I work across **AWS (Glue, SageMaker, Lambda)**, **Snowflake**, **Databricks**, **Spark**, **dbt**, and **Airflow** with a strong foundation in **Python, SQL, and PySpark**.
 
-My portfolio showcases projects that focus on applying machine learning, natural language processing, predictive analytics, and scalable data workflows to solve real-world challenges.
+[My Tableau Profile](https://public.tableau.com/app/profile/vaddhiparthy) • [My LeetCode Profile](https://leetcode.com/Vaddhiparthy/)
 
-I am always eager to collaborate on innovative projects and share knowledge within the data science and engineering community. Let’s connect to create impactful solutions!
+---
 
-<a href="https://public.tableau.com/app/profile/vaddhiparthy">My Tableau Profile</a>
+### Languages & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" height="32"/>
+</p>
 
-<a href="https://leetcode.com/Vaddhiparthy/">My Leetcode Profile</a>
+---
 
+### GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=vaddhiparthy&show_icons=true&theme=dark&locale=en&layout=compact&v=6)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaddhiparthy&show_icons=true&theme=dark&locale=en&layout=compact" alt="vaddhiparthy" /></p>
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=vaddhiparthy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaddhiparthy&show_icons=true&theme=dark&locale=en&hide=stars,prs,issues,contribs" alt="vaddhiparthy" /></p>
+<!-- Activity Graph (title only reflects last month by request) -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaddhiparthy&theme=github-dark&hide_border=true&custom_title=Contributions%20(last%2030%20days))
+
+---
+
+### Connect with me
+- [LinkedIn](https://linkedin.com/in/vaddhiparthy)
+- [Medium](https://medium.com/@vaddhiparthy)
+- [Kaggle](https://kaggle.com/vaddhiparthy)
