@@ -1,4 +1,5 @@
-# Senior Data & AI Engineer  
+#Surya Vaddhiparthy
+## Senior Data & AI Engineer  
 Website: https://surya.vaddhiparthy.com  
 LinkedIn: https://linkedin.com/in/vaddhiparthy  
 GitHub: https://github.com/vaddhiparthy  
