@@ -30,6 +30,7 @@ Flask + APScheduler engine that iteratively refines Markdown-based goals using a
 ### **Pepper — Portfolio LLM Assistant Backend**  
 Repo: https://github.com/vaddhiparthy/Pepper_portfolio  
 FastAPI backend for a locked-down “Pepper” assistant that ingests curated LinkedIn/GitHub/site text, builds scoped chat contexts, calls OpenAI, and enforces strict guardrails for your public portfolio.
+(Architecture and implementation details are intentionally locked due to IPR reservations, repository is private and access-restricted.)
 
 ### **GPT-2 Fine-Tuning — Domain Adaptation Pipeline**  
 Repo: https://github.com/vaddhiparthy/GPT-2-Fine-Tuning  
