@@ -23,7 +23,7 @@ Focus areas include:
 ## Selected Projects
 
 ### **ASTRA-X Overthinker — Autonomous Task Refinement Engine**  
-Repo: https://github.com/vaddhiparthy/ASTRA-X-Overthinker  
+Repo: https://github.com/vaddhiparthy/ASTRA-X-Overthinker
 Flask + APScheduler engine that iteratively refines Markdown-based goals using an LLM persona, maintains per-goal journals, appends timestamped progress, and runs on a Dockerized scheduler.
 (Architecture and implementation details are intentionally locked due to IPR reservations, repository is private and access-restricted.)
 
