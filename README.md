@@ -6,29 +6,41 @@
 
 ---
 
-## Architectural Philosophy
-I architect production-grade data platforms and AI infrastructure that bridge the gap between raw data lakes and governed, analytics-ready intelligence. My focus is on **Scalability**, **Data FinOps**, and **Operational Reliability**.
+## Professional Summary
+Senior Data Engineer & Architect focused on building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility). Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL—plus production LLM systems where they materially improve workflows.
 
-- **Modern Data Stack:** Expert in Snowflake/dbt/Airflow ecosystems with a focus on cost-optimization and 99.9% pipeline availability.
-- **AI Infrastructure:** Designing Agentic RAG workflows and Multimodal fine-tuning pipelines using LangGraph and Vector DBs.
-- **Data Governance:** Implementing automated observability (Monte Carlo/GE) and PII-secure ingestion frameworks.
+- **Data Platform Architecture:** Snowflake + dbt + Airflow ecosystems, dimensional marts/metrics, warehouse/query tuning, and repeatable delivery patterns.
+- **Reliability & Governance:** Data quality/observability (tests, lineage/monitoring, incident runbooks), auditability/backfills, and privacy-first ingestion (PII-safe transformations).
+- **Production AI Systems (when relevant):** Retrieval pipelines and guardrailed LLM interfaces (scoped context, evaluation/controls) built as real services—not notebooks.
 
 ---
 
 ## Featured Engineering Systems
 
-### **[VideoSemanticAlignment — Multimodal Research & Data Pipeline]**
-*Manuscript in Peer Review (Targeting CVPR/ICCV 2026)* Lead Data Architect for a vision-language project. Engineered a high-throughput preprocessing engine to align event-level text with temporal video segments, generating supervised pairs for VLM fine-tuning.
-`Python` `Vision-Language Models` `PyTorch` `Temporal Data Alignment`
-
-### **[ASTRA-X Overthinker — Agentic Workflow Orchestrator](https://github.com/vaddhiparthy/ASTRA-X-Overthinker-v2)** A stateful, autonomous task refinement engine. Built with a Flask/APScheduler backbone, it manages iterative LLM goal refinement, persistent memory, and timestamped progress logs in a Dockerized environment.
-`Python` `Flask` `APScheduler` `Ollama` `Docker`
-
-### **[Secure PII Ingestion Framework](https://github.com/vaddhiparthy/Login-Events-ETL)** Decoupled, event-driven pipeline consuming high-volume login events via AWS SQS. Implemented mid-flight SHA-256 pseudonymization to ensure GDPR/CCPA compliance for downstream analytics.
+### **[Secure PII Event Ingestion Framework (SQS → Postgres)](https://github.com/vaddhiparthy/Login-Events-ETL)**
+Event-driven ingestion pipeline consuming authentication/login events via AWS SQS (LocalStack for reproducible local runs). Applies SHA-256 pseudonymization mid-flight and lands normalized records into Postgres for downstream analytics.  
 `AWS SQS` `Python` `PostgreSQL` `LocalStack` `Docker`
 
-### **[Portfolio LLM Gateway & Context Orchestrator](https://github.com/vaddhiparthy/Pepper_portfolio)** Containerized FastAPI backend powering a RAG-based assistant. Designed for strict guardrails, it handles scoped context injection and secure credential proxying for public-facing LLM interactions.  
-`FastAPI` `OpenAI SDK` `Pydantic` `Render` `CORS Security`
+### **[Portfolio Assistant Backend — Guardrailed LLM Gateway](https://github.com/vaddhiparthy/Pepper_portfolio)**
+Containerized FastAPI service powering a scoped portfolio assistant. Implements strict context boundaries, schema validation, and security controls for public-facing LLM interactions. *(Repo is private / access-restricted.)*  
+`FastAPI` `OpenAI SDK` `Pydantic` `Docker` `CORS/Security Controls`
+
+### **[ASTRA-X Overthinker — Stateful Workflow Orchestrator](https://github.com/vaddhiparthy/ASTRA-X-Overthinker-v2)**
+A stateful orchestration system that schedules iterative runs, persists goal state/history, and produces timestamped progress logs/changelogs for reproducible long-horizon workflows.  
+`Python` `Flask` `APScheduler` `YAML/Markdown State` `Docker`
+
+### **[Privacy-Preserving Synthetic Data Engine (GAN → Downstream Scoring)](https://github.com/vaddhiparthy/SynthScoreNet)**
+Synthetic data generation pipeline using a GAN to create credit-feature rows for experimentation and model development under constrained real-data access, followed by downstream scoring/regression training.  
+`Python` `TensorFlow/Keras` `Pandas/NumPy` `Synthetic Data` `Model Training`
+
+### **VideoSemanticAlignment — Multimodal Research Data Pipeline**
+*Manuscript in peer review (targeting CVPR/ICCV 2026).* Built the data pipeline to clean event-level text and align it with temporal video segments, producing high-fidelity supervised pairs to enable VLM fine-tuning.  
+`Python` `PyTorch` `Temporal Alignment` `Dataset Construction` `VLM Fine-Tuning`
+
+### **[Multi-API Metrics Pipeline — Structured Financial Data Outputs](https://github.com/vaddhiparthy/stock-data-analysis-tool)**
+Data ingestion + transformation toolkit that pulls from multiple APIs, standardizes metrics, and exports structured tables for downstream screening/analysis.  
+`Python` `API Ingestion` `Pandas` `Structured Exports` `Repeatable Pipelines`
+
 
 ---
 
