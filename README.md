@@ -1,5 +1,5 @@
 # Sri Surya S. Vaddhiparthy
-## Senior Data Engineer (Data Platform Architecture, FinOps, Reliability)
+Senior Data Engineer (Data Platform Architecture, FinOps, Reliability)
 
 Website: https://surya.vaddhiparthy.com  
 LinkedIn: https://linkedin.com/in/vaddhiparthy  
@@ -8,14 +8,14 @@ Email: surya@vaddhiparthy.com
 ---
 
 ## Professional Summary
-Senior Data Engineer (7+ years) building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility).  
+Senior Data Engineer (7+ years) building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility).
 
-Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL, and  plus production LLM systems.
+Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL—plus production LLM systems when they materially improve workflow.
 
-Highlights:
-- Snowflake subject-area delivery with dimensional modeling and 200+ dbt models (tests/macros/docs), driving ~3x query performance and ~42% faster analyst time-to-insight
+### Highlights
+- Snowflake subject-area delivery with dimensional modeling and 200+ dbt models (tests/macros/docs), driving ~3× query performance and ~42% faster analyst time-to-insight
 - Orchestrated Python/SQL/dbt pipelines in Airflow (incrementals, backfills, reusable connectors), cutting batch latency ~45% while staying auditable and maintainable
-- Observability and quality automation (Monte Carlo, Great Expectations) sustaining 99.9% availability, reducing incident MTTR by ~35%, and lowering compute cost by ~20% via warehouse and SQL tuning
+- Observability and quality automation (Great Expectations and data observability tooling) sustaining 99.9% availability, reducing incident MTTR by ~35%, and lowering compute cost by ~20% via warehouse and SQL tuning
 
 ---
 
@@ -34,7 +34,7 @@ Highlights:
 | Orchestration & Transform | Airflow, dbt (Models/Macros/Tests/Docs), Prefect |
 | Distributed Compute & Streaming | Spark, PySpark, Kafka |
 | Engineering | Python, SQL, Docker, Git, CI/CD (GitHub Actions), Terraform |
-| Quality & Observability | Monte Carlo, Great Expectations, CloudWatch, SLAs, runbooks |
+| Quality & Observability | Great Expectations, data observability tooling, CloudWatch, SLAs, runbooks |
 | Production LLM Systems | LangGraph, LangChain, Milvus, pgvector, RAG evaluation/guardrails |
 
 ---
@@ -62,7 +62,7 @@ Synthetic data generation pipeline using a GAN to create credit-feature rows for
 Stack: Python, TensorFlow/Keras, Pandas/NumPy, synthetic data, model training
 
 ### 5) VideoSemanticAlignment — Multimodal Research Data Pipeline
-Manuscript in peer review (targeting CVPR/ICCV 2026). Built the data pipeline to clean event-level text and align it with temporal video segments, producing high-fidelity supervised pairs to enable VLM fine-tuning. Artifacts available on request.  
+Manuscript in peer review. Built the data pipeline to clean event-level text and align it with temporal video segments, producing high-fidelity supervised pairs to enable VLM fine-tuning. Artifacts available on request.  
 Stack: Python, PyTorch, temporal alignment, dataset construction, VLM fine-tuning
 
 ### 6) Multi-API Metrics Pipeline — Structured Financial Data Outputs
