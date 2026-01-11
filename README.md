@@ -1,5 +1,5 @@
 # Sri Surya S. Vaddhiparthy
-## Senior Data Engineer & Architect
+## Senior Data Engineer
 [![Website](https://img.shields.io/badge/Website-surya.vaddhiparthy.com-blue)](https://surya.vaddhiparthy.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vaddhiparthy-blue?logo=linkedin)](https://linkedin.com/in/vaddhiparthy)
 [![Email](https://img.shields.io/badge/Email-surya%40vaddhiparthy.com-red)](mailto:surya@vaddhiparthy.com)
