@@ -7,7 +7,9 @@
 ---
 
 ## Professional Summary
-Senior Data Engineer & Architect focused on building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility). Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL—plus production LLM systems where they materially improve workflows.
+Senior Data Engineer & Architect focused on building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility). 
+
+**Core stack:** Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL—plus production LLM systems where they materially improve workflows.
 
 - **Data Platform Architecture:** Snowflake + dbt + Airflow ecosystems, dimensional marts/metrics, warehouse/query tuning, and repeatable delivery patterns.
 - **Reliability & Governance:** Data quality/observability (tests, lineage/monitoring, incident runbooks), auditability/backfills, and privacy-first ingestion (PII-safe transformations).
