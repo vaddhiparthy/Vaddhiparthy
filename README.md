@@ -22,7 +22,7 @@ Highlights:
 ## What I Build
 - Data platform architecture: Snowflake + dbt + Airflow ecosystems, curated marts/metrics, warehouse/query tuning, repeatable delivery patterns
 - Reliability and governance: tests, SLAs, lineage/monitoring, incident runbooks, auditability/backfills, privacy-first ingestion (PII-safe transformations)
-- Production services (not notebooks): containerized ETL services and controlled LLM integrations with strict boundaries, validation, and security controls
+- Production services: containerized ETL services and controlled LLM integrations with strict boundaries, validation, and security controls
 
 ---
 
