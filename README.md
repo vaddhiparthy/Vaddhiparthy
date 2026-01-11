@@ -10,7 +10,7 @@ Email: surya@vaddhiparthy.com
 ## Professional Summary
 Senior Data Engineer (7+ years) building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility).  
 
-Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL — plus production LLM systems where they materially improve workflows.
+Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL, and  plus production LLM systems.
 
 Highlights:
 - Snowflake subject-area delivery with dimensional modeling and 200+ dbt models (tests/macros/docs), driving ~3x query performance and ~42% faster analyst time-to-insight
@@ -19,7 +19,7 @@ Highlights:
 
 ---
 
-## What I Build (Senior DE Scope)
+## What I Build
 - Data platform architecture: Snowflake + dbt + Airflow ecosystems, curated marts/metrics, warehouse/query tuning, repeatable delivery patterns
 - Reliability and governance: tests, SLAs, lineage/monitoring, incident runbooks, auditability/backfills, privacy-first ingestion (PII-safe transformations)
 - Production services (not notebooks): containerized ETL services and controlled LLM integrations with strict boundaries, validation, and security controls
