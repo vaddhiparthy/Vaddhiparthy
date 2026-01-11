@@ -15,6 +15,18 @@ Senior Data Engineer & Architect focused on building production-grade data platf
 
 ---
 
+## Technical Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Data Platforms** | **Snowflake**, AWS (S3, Glue, Redshift, ECS), BigQuery, Databricks |
+| **Orchestration** | **Airflow**, dbt (Models/Macros/Tests), Prefect, Terraform (IaC) |
+| **AI / Vector Ops** | **LangGraph**, LangChain, Milvus, pgvector, RAGAS, VLM Fine-tuning |
+| **Engineering** | Python, SQL, PySpark, Docker, CI/CD (GitHub Actions) |
+| **Observability** | **Monte Carlo**, Great Expectations, Langfuse, CloudWatch |
+
+---
+
 ## Featured Engineering Systems
 
 ### **[Secure PII Event Ingestion Framework (SQS → Postgres)](https://github.com/vaddhiparthy/Login-Events-ETL)**
@@ -40,29 +52,6 @@ Synthetic data generation pipeline using a GAN to create credit-feature rows for
 ### **[Multi-API Metrics Pipeline — Structured Financial Data Outputs](https://github.com/vaddhiparthy/stock-data-analysis-tool)**
 Data ingestion + transformation toolkit that pulls from multiple APIs, standardizes metrics, and exports structured tables for downstream screening/analysis.  
 `Python` `API Ingestion` `Pandas` `Structured Exports` `Repeatable Pipelines`
-
-
----
-
-## Technical Stack
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Data Platforms** | **Snowflake**, AWS (S3, Glue, Redshift, ECS), BigQuery, Databricks |
-| **Orchestration** | **Airflow**, dbt (Models/Macros/Tests), Prefect, Terraform (IaC) |
-| **AI / Vector Ops** | **LangGraph**, LangChain, Milvus, pgvector, RAGAS, VLM Fine-tuning |
-| **Engineering** | Python, SQL, PySpark, Docker, CI/CD (GitHub Actions) |
-| **Observability** | **Monte Carlo**, Great Expectations, Langfuse, CloudWatch |
-
----
-
-## Research & Engineering Labs
-*Selected projects exploring specific domains in ML and Analytics.*
-
-- **[SynthScoreNet](https://github.com/vaddhiparthy/SynthScoreNet):** GAN-driven synthetic data generation for privacy-preserving credit modeling.
-- **[GPT-2 Domain Adaptation](https://github.com/vaddhiparthy/GPT-2-Fine-Tuning):** End-to-end transformer fine-tuning and perplexity evaluation pipeline.
-- **[Alternative Data Risk Model](https://github.com/vaddhiparthy/Alternative-Data-Credit-Default-Risk-Model):** High-imbalance ML pipeline with SMOTE and SHAP explainability.
-- **[Urban Geospatial Analytics](https://github.com/vaddhiparthy/Urban-Geospatial-Analytics):** Clustering venue distribution via Foursquare API and Open City datasets.
 
 ---
 *© 2026 Sri Surya S. Vaddhiparthy. Senior Data Engineer & Architect.*
