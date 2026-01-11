@@ -35,7 +35,7 @@ Highlights:
 | Distributed Compute & Streaming | Spark, PySpark, Kafka |
 | Engineering | Python, SQL, Docker, Git, CI/CD (GitHub Actions), Terraform |
 | Quality & Observability | Monte Carlo, Great Expectations, CloudWatch, SLAs, runbooks |
-| Production LLM Systems (when relevant) | LangGraph, LangChain, Milvus, pgvector, RAG evaluation/guardrails |
+| Production LLM Systems | LangGraph, LangChain, Milvus, pgvector, RAG evaluation/guardrails |
 
 ---
 
