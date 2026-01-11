@@ -8,7 +8,7 @@ Email: surya@vaddhiparthy.com
 ---
 
 ## Professional Summary
-Senior Data Engineer (7+ years) building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility).
+Senior Data Engineer (7+ years experience) building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility).
 
 Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL—plus production LLM systems when they materially improve workflow.
 
@@ -71,10 +71,4 @@ Data ingestion and transformation toolkit that pulls from multiple APIs, standar
 Stack: Python, API ingestion, Pandas, structured exports, repeatable pipelines
 
 ---
-
-## Contact
-Email: surya@vaddhiparthy.com  
-LinkedIn: https://linkedin.com/in/vaddhiparthy  
-Website: https://surya.vaddhiparthy.com  
-
 © 2026 Sri Surya S. Vaddhiparthy. All rights reserved.
