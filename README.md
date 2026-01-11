@@ -6,7 +6,7 @@
 
 ---
 
-## 🏗️ Architectural Philosophy
+## Architectural Philosophy
 I architect production-grade data platforms and AI infrastructure that bridge the gap between raw data lakes and governed, analytics-ready intelligence. My focus is on **Scalability**, **Data FinOps**, and **Operational Reliability**.
 
 - **Modern Data Stack:** Expert in Snowflake/dbt/Airflow ecosystems with a focus on cost-optimization and 99.9% pipeline availability.
@@ -15,7 +15,7 @@ I architect production-grade data platforms and AI infrastructure that bridge th
 
 ---
 
-## 🚀 Featured Engineering Systems
+## Featured Engineering Systems
 
 ### **[VideoSemanticAlignment — Multimodal Research & Data Pipeline]**
 *Manuscript in Peer Review (Targeting CVPR/ICCV 2026)* Lead Data Architect for a vision-language project. Engineered a high-throughput preprocessing engine to align event-level text with temporal video segments, generating supervised pairs for VLM fine-tuning.
@@ -32,7 +32,7 @@ I architect production-grade data platforms and AI infrastructure that bridge th
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -44,21 +44,13 @@ I architect production-grade data platforms and AI infrastructure that bridge th
 
 ---
 
-## 🧪 Research & Engineering Labs
+## Research & Engineering Labs
 *Selected projects exploring specific domains in ML and Analytics.*
 
 - **[SynthScoreNet](https://github.com/vaddhiparthy/SynthScoreNet):** GAN-driven synthetic data generation for privacy-preserving credit modeling.
 - **[GPT-2 Domain Adaptation](https://github.com/vaddhiparthy/GPT-2-Fine-Tuning):** End-to-end transformer fine-tuning and perplexity evaluation pipeline.
 - **[Alternative Data Risk Model](https://github.com/vaddhiparthy/Alternative-Data-Credit-Default-Risk-Model):** High-imbalance ML pipeline with SMOTE and SHAP explainability.
 - **[Urban Geospatial Analytics](https://github.com/vaddhiparthy/Urban-Geospatial-Analytics):** Clustering venue distribution via Foursquare API and Open City datasets.
-
----
-
-## 📊 Minimal Metrics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vaddhiparthy&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaddhiparthy&layout=compact&hide_border=true&theme=transparent" height="160"/>
-</p>
 
 ---
 *© 2026 Sri Surya S. Vaddhiparthy. Senior Data Engineer & Architect.*
