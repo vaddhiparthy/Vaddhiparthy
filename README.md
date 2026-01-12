@@ -8,21 +8,21 @@ Email: surya@vaddhiparthy.com
 ---
 
 ## Professional Summary
-Senior Data Engineer (7+ years experience) building production-grade data platforms and ELT/ETL frameworks. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (Snowflake/AWS FinOps), and clean delivery standards (IaC, CI/CD, reproducibility).
+Senior Data Engineer (7+ years) building production-grade data platforms and ELT/ETL frameworks across batch and streaming workloads. I turn fragmented sources into governed, analytics-ready datasets with strong reliability (SLAs, monitoring, runbooks), cost discipline (warehouse + cloud FinOps), and clean delivery standards (IaC, CI/CD, reproducibility).  
 
-Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL and production LLM systems.
+Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL.
 
 ### Highlights
-- Snowflake subject-area delivery with dimensional modeling and 200+ dbt models (tests/macros/docs), driving ~3× query performance and ~42% faster analyst time-to-insight
-- Orchestrated Python/SQL/dbt pipelines in Airflow (incrementals, backfills, reusable connectors), cutting batch latency ~45% while staying auditable and maintainable
-- Observability and quality automation (Great Expectations and data observability tooling) sustaining 99.9% availability, reducing incident MTTR by ~35%, and lowering compute cost by ~20% via warehouse and SQL tuning
+- Delivered Snowflake subject areas with dimensional modeling and dbt (models/tests/macros/docs), driving ~3× query performance and ~42% faster time-to-insight
+- Orchestrated Python/SQL/dbt pipelines in Airflow (incrementals, backfills, reusable connectors), cutting batch latency ~45% while keeping runs auditable and maintainable
+- Implemented data reliability and observability practices (automated validation + monitoring + runbooks), sustaining ~99.9% availability, reducing incident MTTR by ~35%, and lowering compute costs by ~20% via warehouse + SQL tuning
 
 ---
 
 ## What I Build
 - Data platform architecture: Snowflake + dbt + Airflow ecosystems, curated marts/metrics, warehouse/query tuning, repeatable delivery patterns
-- Reliability and governance: tests, SLAs, lineage/monitoring, incident runbooks, auditability/backfills, privacy-first ingestion (PII-safe transformations)
-- Production services: containerized ETL services and controlled LLM integrations with strict boundaries, validation, and security controls
+- Reliability and governance: tests, SLAs, monitoring/lineage, incident runbooks, auditability/backfills, privacy-first ingestion and PII-safe transformations
+- Engineering standards: CI/CD + IaC (Terraform), containerized jobs/services, reproducible environments, versioned datasets and definitions
 
 ---
 
@@ -30,12 +30,11 @@ Core stack: Snowflake, AWS, Airflow, dbt, Spark/PySpark, Python, SQL and product
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| Data Platforms | Snowflake, AWS (S3, Glue, Lambda, ECS/Fargate, Redshift), BigQuery, Databricks/Delta Lake |
-| Orchestration & Transform | Airflow, dbt (Models/Macros/Tests/Docs), Prefect |
+| Data Platforms | Snowflake, AWS (S3, Glue, Lambda, ECS/Fargate), BigQuery |
+| Orchestration & Transform | Airflow, dbt (Models/Macros/Tests/Docs) |
 | Distributed Compute & Streaming | Spark, PySpark, Kafka |
-| Engineering | Python, SQL, Docker, Git, CI/CD (GitHub Actions), Terraform |
+| Engineering | Python, SQL, Docker, Git, CI/CD, Terraform |
 | Quality & Observability | Great Expectations, data observability tooling, CloudWatch, SLAs, runbooks |
-| Production LLM Systems | LangGraph, LangChain, Milvus, pgvector, RAG evaluation/guardrails |
 
 ---
 
