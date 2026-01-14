@@ -1,11 +1,6 @@
 # Sri Surya S. Vaddhiparthy 
 Senior Data Engineer (Data Platforms, FinOps, Reliability)  
 
-
-Website: https://surya.vaddhiparthy.com  
-LinkedIn: https://linkedin.com/in/vaddhiparthy  
-Email: surya@vaddhiparthy.com  
-
 ## Professional Summary
 Senior Data Engineer (8 years) focused on building reliable, cost-aware data systems—from ingestion and orchestration to modeling, validation, and operational support. My GitHub highlights the engineering side of my work: event-driven pipelines, workflow orchestration, API-based ingestion, privacy-safe transformations, and dataset construction pipelines used for analytics and ML.
 
@@ -29,6 +24,11 @@ Senior Data Engineer (8 years) focused on building reliable, cost-aware data sys
 | Distributed Compute & Streaming | Spark, PySpark, Kafka |
 | Engineering | Python, SQL, Docker, Git, CI/CD, Terraform |
 | Quality & Observability | Great Expectations, CloudWatch, SLAs, runbooks, data observability tooling |
+
+## Contact 
+Website: https://surya.vaddhiparthy.com  
+LinkedIn: https://linkedin.com/in/vaddhiparthy  
+Email: surya@vaddhiparthy.com  
 
 ## Featured Engineering Systems (Selected)
 
