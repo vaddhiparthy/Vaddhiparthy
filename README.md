@@ -1,5 +1,5 @@
-# Sri Surya S. Vaddhiparthy  
-## Senior Data Engineer (Data Platforms, FinOps, Reliability)  
+# Sri Surya S. Vaddhiparthy 
+Senior Data Engineer (Data Platforms, FinOps, Reliability)  
 
 
 Website: https://surya.vaddhiparthy.com  
