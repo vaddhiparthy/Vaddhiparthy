@@ -2,7 +2,7 @@
 
 Senior Data Engineer focused on reliable data platforms, analytics engineering, retrieval systems, and production-grade AI infrastructure.
 
-[Portfolio](https://surya.vaddhiparthy.com) | [Research](https://surya.vaddhiparthy.com/research) | [LinkedIn](https://www.linkedin.com/in/vaddhiparthy/) | [Email](mailto:surya@vaddhiparthy.com)
+[Portfolio](https://surya.vaddhiparthy.com) | [Research](https://surya.vaddhiparthy.com/research) | [LinkedIn](https://www.linkedin.com/in/vaddhiparthy) | [Email](mailto:surya@vaddhiparthy.com)
 
 ## Professional Focus
 
