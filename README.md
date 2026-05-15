@@ -61,7 +61,7 @@ Built a stateful orchestration and evaluation service for multi-provider model w
 
 **Stack:** Python, FastAPI, PostgreSQL, SQLite, Pydantic, httpx, async scheduling, YAML configuration, model router, prompt registry, guardrails, evaluation harness, browser UI, repository pattern
 
-### GeoCorr Legal Retrieval Benchmark
+### Failure-Aware Metric Realignment for Post Hoc Dense-Retrieval
 
 [Project](https://vaddhiparthy.com/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval) | [Repository](https://github.com/vaddhiparthy/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval)
 
