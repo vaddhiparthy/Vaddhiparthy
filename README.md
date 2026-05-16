@@ -1,81 +1,90 @@
 # Sri Surya S. Vaddhiparthy
 
-Senior Data Engineer focused on reliable data platforms, analytics engineering, retrieval systems, and production-grade AI infrastructure.
+Senior Data Engineer focused on reliable data platforms, analytics engineering, privacy-aware pipelines, and AI-ready data systems.
 
-[Portfolio](https://surya.vaddhiparthy.com) | [Research](https://surya.vaddhiparthy.com/research) | [LinkedIn](https://www.linkedin.com/in/vaddhiparthy) | [Email](mailto:surya@vaddhiparthy.com)
+[Portfolio](https://surya.vaddhiparthy.com) | [LinkedIn](https://www.linkedin.com/in/vaddhiparthy) | [Email](mailto:surya@vaddhiparthy.com)
 
-## Professional Focus
+## Focus
 
-I build data systems that move from ingestion to decision support with clear contracts, observable execution, and practical operating discipline. My work spans cloud-native data platforms, warehouse optimization, privacy-aware audit pipelines, orchestration services, retrieval evaluation, and LLM application infrastructure.
+I build production-minded data systems that move from ingestion to trusted decision support: clear contracts, observable execution, quality checks, cost-aware modeling, and practical operating discipline.
 
 Current focus areas:
 
-- Data platform architecture across ingestion, modeling, orchestration, validation, and serving layers
-- Analytics engineering with cost-aware warehouse design, dbt-style modeling, and operational data quality checks
-- Retrieval and LLM systems, including context orchestration, evaluation workflows, and guarded API services
-- Reliability practices for production data systems, including runbooks, structured logs, failure handling, and reproducible environments
+- Data platform architecture across ingestion, transformation, validation, orchestration, and serving layers
+- Analytics engineering with SQL/Python, warehouse modeling, dbt-style workflows, and data quality gates
+- Privacy-aware audit pipelines, governed event processing, and traceable operational data products
+- Retrieval, RAG, and LLM evaluation systems where data quality and measurement matter
+- Cloud and containerized delivery with Docker, CI/CD, Terraform-style infrastructure, and Linux operations
 
 ## Core Stack
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, SQL, TypeScript |
-| Data Platforms | Snowflake, DuckDB, PostgreSQL, AWS S3, BigQuery |
-| Orchestration | Airflow, async scheduling, workflow automation, GitHub Actions |
-| Transformation and Quality | dbt, Great Expectations, data contracts, schema validation |
-| AI and Retrieval | LangChain, Chroma, embedding models, retrieval evaluation, RAG pipelines |
-| Services and Infrastructure | FastAPI, Docker, Terraform, Render, Caddy, Linux operations |
-| Observability | Structured logging, runbooks, incident review, cost and performance monitoring |
+| Languages | Python, SQL, TypeScript, JavaScript |
+| Data Platforms | Snowflake, PostgreSQL, DuckDB, BigQuery, AWS S3 |
+| Orchestration | Airflow, scheduled jobs, workflow automation, GitHub Actions |
+| Transformation and Quality | dbt-style modeling, Great Expectations, data contracts, schema validation |
+| Services | FastAPI, Streamlit, Docker, Caddy, Linux |
+| AI and Retrieval | RAG pipelines, embedding models, retrieval evaluation, LLM workflow tooling |
+| Operations | Structured logging, runbooks, incident review, performance and cost monitoring |
 
-## Selected Engineering Work
+## Selected Work
 
-### FinLens: Regulatory-Grade Banking Data Platform
+### FinLens: Banking Stress Intelligence Platform
 
-[Project](https://surya.vaddhiparthy.com/finlens) | [Repository](https://github.com/vaddhiparthy/FinLens)
+[Repository](https://github.com/vaddhiparthy/FinLens-Banking-Stress-Intelligence-Platform)
 
-Designed an end-to-end banking analytics platform with ingestion, validation, warehouse modeling, orchestration, semantic search, dashboards, and infrastructure automation. The system demonstrates regulated-data patterns across data quality, repeatable deployments, and operational visibility.
+End-to-end financial data platform for public banking and macroeconomic datasets. It demonstrates ingestion, warehouse-style modeling, orchestration, quality checks, analytics serving, and documentation around FDIC, FRED, and related financial data.
 
-**Stack:** Python, AWS S3, Snowflake, DuckDB, dbt, Great Expectations, Airflow, FastAPI, Streamlit, LangChain, Chroma, Terraform, GitHub Actions, Docker
+**Signals:** Airflow, dbt-style modeling, Great Expectations, Snowflake/DuckDB patterns, FastAPI, Streamlit, data platform documentation.
 
-### Privacy Preserving Authentication Audit Data Platform
+### Privacy-Preserving Authentication Audit Pipeline
 
-[Project](https://surya.vaddhiparthy.com/privacy-preserving-authentication-audit-data-platform/) | [Repository](https://github.com/vaddhiparthy/Login-Events-ETL)
+[Repository](https://github.com/vaddhiparthy/Privacy-Preserving-Authentication-Audit-Pipeline)
 
-Built a privacy-aware authentication analytics platform that ingests login events, applies HMAC-based tokenization, enforces data contracts, and supports audit-ready analytics without exposing raw identifiers.
+Authentication telemetry pipeline that ingests login events, pseudonymizes sensitive fields, persists structured audit data, and supports privacy-aware operational analysis.
 
-**Stack:** Python, FastAPI, PostgreSQL, Docker Compose, HMAC tokenization, privacy engineering, data contracts, structured logging, unittest
+**Signals:** Python ETL, queue-style intake, PostgreSQL, Docker, privacy engineering, audit evidence, data contracts.
 
-### Portfolio Assistant Gateway and Context Orchestrator
+### Privacy-Aware Corpus Intelligence Pipeline
 
-[Project](https://surya.vaddhiparthy.com/pepper) | [Repository](https://github.com/vaddhiparthy/Pepper_portfolio)
+[Repository](https://github.com/vaddhiparthy/Privacy-Aware-Corpus-Intelligence-Pipeline)
 
-Developed an API-first assistant backend that controls context retrieval, request validation, session state, operator handoff, and origin enforcement for a production portfolio assistant.
+Data engineering and AI pipeline for corpus processing, governed text handling, and retrieval-oriented analytics. This project connects data platform discipline with modern AI/search workflows.
 
-**Stack:** Python, FastAPI, Uvicorn, Pydantic, HTTP APIs, context orchestration, session state management, operator handoff, Render, Docker, CORS and origin enforcement, JSONL logging
+**Signals:** Python, corpus processing, governed data flow, retrieval-aware architecture, AI-ready data preparation.
 
-### ASTRA-X Overthinker
+### Failure-Aware Metric Realignment for Post-Hoc Dense Retrieval
 
-[Project](https://surya.vaddhiparthy.com/overthinker/) | [Repository](https://github.com/vaddhiparthy/ASTRA-X-Overthinker-v2)
+[Repository](https://github.com/vaddhiparthy/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval)
 
-Built a stateful orchestration and evaluation service for multi-provider model workflows. The system emphasizes durable configuration, prompt registries, provider-compatible APIs, guardrails, persistence, and repeatable evaluation.
+Research-oriented retrieval evaluation project for legal QA and dense retrieval diagnostics. It explores failure-aware post-hoc transformation methods, grid-search evaluation, result persistence, and scientific reporting.
 
-**Stack:** Python, FastAPI, PostgreSQL, SQLite, Pydantic, httpx, async scheduling, YAML configuration, model router, prompt registry, guardrails, evaluation harness, browser UI, repository pattern
+**Signals:** Python, DuckDB, retrieval evaluation, legal RAG benchmarks, embeddings, experiment tracking, reproducible research artifacts.
 
-### Failure-Aware Metric Realignment for Post Hoc Dense-Retrieval
+### Synthetic Credit Score Modeling
 
-[Project](https://vaddhiparthy.com/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval) | [Repository](https://github.com/vaddhiparthy/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval)
+[Repository](https://github.com/vaddhiparthy/Synthetic-Credit-Score-Modeling)
 
-Research prototype for corpus-only legal retrieval benchmarking. The pipeline normalizes legal QA datasets, embeds documents and raw or rewritten queries, ranks passages with cosine retrieval, and persists query-level plus aggregate metrics for retrieval-quality analysis.
+Machine-learning project around synthetic credit data generation and credit scoring for thin-file borrowers.
 
-**Stack:** Python, DuckDB, legal RAG, embedding models, nomic-embed-text-v1.5, retrieval evaluation, dataset engineering, React, TypeScript, Hugging Face Datasets
+**Signals:** ML modeling, synthetic data, credit-risk framing, responsible data-product thinking.
+
+### Semantic Mixture of Experts
+
+[Repository](https://github.com/vaddhiparthy/Semantic-Mixture-of-Experts)
+
+Research-grade prototype for semantic expert routing on small-compute environments.
+
+**Signals:** LLM systems, routing, model specialization, AI infrastructure experimentation.
 
 ## Operating Strengths
 
-- Built data systems that improved time to insight by 42% through stronger modeling, validation, and workflow design
-- Improved query performance by approximately 3x through warehouse tuning, modeling discipline, and access-pattern review
-- Reduced incident resolution time by 35% with clearer observability, runbooks, and failure isolation
-- Reduced warehouse compute cost by approximately 20% through cost-aware design and workload optimization
+- Designed data systems with stronger ingestion, modeling, validation, and serving contracts
+- Built reliability practices around structured logs, runbooks, failure isolation, and repeatable deployment
+- Worked on cost-aware warehouse and query-performance optimization
+- Connect data engineering fundamentals with AI/RAG systems without losing traceability or measurement
 
-## Current Direction
+## Direction
 
-I am continuing to deepen my work in production data engineering, retrieval evaluation, and AI-ready data platforms: systems where correctness, traceability, cost, and operational clarity matter as much as the first successful run.
+I am focused on senior data engineering roles where platform reliability, data quality, cloud data architecture, and AI-ready data products matter. My best work sits at the intersection of production data pipelines, governed analytics layers, and retrieval-aware systems.
