@@ -32,7 +32,7 @@ Current focus areas:
 
 ### FinLens: Banking Stress Intelligence Platform
 
-[Repository](https://github.com/vaddhiparthy/FinLens-Banking-Stress-Intelligence-Platform)
+[Presentation](https://surya.vaddhiparthy.com/finlens/) | [Repository](https://github.com/vaddhiparthy/FinLens-Banking-Stress-Intelligence-Platform)
 
 End-to-end financial data platform for public banking and macroeconomic datasets. It demonstrates ingestion, warehouse-style modeling, orchestration, quality checks, analytics serving, and documentation around FDIC, FRED, and related financial data.
 
@@ -40,7 +40,7 @@ End-to-end financial data platform for public banking and macroeconomic datasets
 
 ### Privacy-Preserving Authentication Audit Pipeline
 
-[Repository](https://github.com/vaddhiparthy/Privacy-Preserving-Authentication-Audit-Pipeline)
+[Presentation](https://surya.vaddhiparthy.com/privacy-preserving-authentication-audit-data-platform/) | [Repository](https://github.com/vaddhiparthy/Privacy-Preserving-Authentication-Audit-Pipeline)
 
 Authentication telemetry pipeline that ingests login events, pseudonymizes sensitive fields, persists structured audit data, and supports privacy-aware operational analysis.
 
@@ -48,7 +48,7 @@ Authentication telemetry pipeline that ingests login events, pseudonymizes sensi
 
 ### Privacy-Aware Corpus Intelligence Pipeline
 
-[Repository](https://github.com/vaddhiparthy/Privacy-Aware-Corpus-Intelligence-Pipeline)
+[Presentation](https://surya.vaddhiparthy.com/Privacy-Aware-Corpus-Intelligence-Pipeline) | [Repository](https://github.com/vaddhiparthy/Privacy-Aware-Corpus-Intelligence-Pipeline)
 
 Data engineering and AI pipeline for corpus processing, governed text handling, and retrieval-oriented analytics. This project connects data platform discipline with modern AI/search workflows.
 
@@ -56,7 +56,7 @@ Data engineering and AI pipeline for corpus processing, governed text handling, 
 
 ### Failure-Aware Metric Realignment for Post-Hoc Dense Retrieval
 
-[Repository](https://github.com/vaddhiparthy/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval)
+[Presentation](https://vaddhiparthy.com/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval) | [Repository](https://github.com/vaddhiparthy/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval)
 
 Research-oriented retrieval evaluation project for legal QA and dense retrieval diagnostics. It explores failure-aware post-hoc transformation methods, grid-search evaluation, result persistence, and scientific reporting.
 
