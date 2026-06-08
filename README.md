@@ -32,9 +32,9 @@ Current focus areas:
 
 ### FinLens: Banking Stress Intelligence Platform
 
-[Presentation](https://surya.vaddhiparthy.com/finlens/) | [Repository](https://github.com/vaddhiparthy/FinLens-Banking-Stress-Intelligence-Platform)
+[Presentation](https://surya.vaddhiparthy.com/FinLens-Banking-Stress-Intelligence-Platform/) | [Repository](https://github.com/vaddhiparthy/FinLens-Banking-Stress-Intelligence-Platform)
 
-End-to-end financial data platform for public banking and macroeconomic datasets. It demonstrates ingestion, warehouse-style modeling, orchestration, quality checks, analytics serving, and documentation around FDIC, FRED, and related financial data.
+An end-to-end banking-stress intelligence platform that turns free FDIC, FFIEC, and FRED public data into a calibrated early-warning read on U.S. bank distress. A governed DuckDB/dbt lakehouse (Great Expectations quality gates) feeds an out-of-time-validated, monotone, SHAP-explained LightGBM hazard model that scores each bank four-quarter distress probability, served via FastAPI, Streamlit surfaces, and a cited assistant.
 
 **Signals:** Airflow, dbt-style modeling, Great Expectations, Snowflake/DuckDB patterns, FastAPI, Streamlit, data platform documentation.
 
