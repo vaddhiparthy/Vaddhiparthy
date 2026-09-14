@@ -59,14 +59,6 @@ Local-first pipeline separating public-safe text from sensitive content in large
 
 **Signals:** Python, streaming JSON processing, PII detection, Presidio, governed data flow.
 
-### AI and Retrieval Research
-
-- [Failure-Aware Metric Realignment for Post-Hoc Dense Retrieval](https://surya.vaddhiparthy.com/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval): retrieval evaluation for legal QA across CUAD, Legal RAG Bench, and MTEB Bar Exam QA.
-- [Agentic Planning and Execution Intelligence Platform](https://github.com/vaddhiparthy/Agentic-Planning-and-Execution-Intelligence-Platform): FastAPI service that iteratively refines goals with an LLM and an auditable plan-and-execute trail.
-- [Semantic Expert Routing Architecture](https://github.com/vaddhiparthy/Semantic-Expert-Routing-Architecture): PyTorch scaffold for semantic routing in a compact mixture-of-experts model.
-- [Iterative Research Intelligence Workbench](https://github.com/vaddhiparthy/Iterative-Research-Intelligence-Workbench): local-first deep-research tool on Ollama with human-in-the-loop feedback.
-- [Synthetic Credit Score Modeling](https://github.com/vaddhiparthy/Synthetic-Credit-Score-Modeling): Keras GAN prototype for synthetic credit features and thin-file scoring.
-
 ## Operating Strengths
 
 - Designed data systems with stronger ingestion, modeling, validation, and serving contracts
