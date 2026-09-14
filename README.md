@@ -1,6 +1,6 @@
 # Sri Surya S. Vaddhiparthy
 
-Senior Data Engineer focused on reliable data platforms, analytics engineering, privacy-aware pipelines, and AI-ready data systems.
+Data Engineer with 8+ years building batch ETL/ELT pipelines, cloud data platforms, and regulatory reporting systems across banking, healthcare, insurance, and retail.
 
 [Portfolio](https://surya.vaddhiparthy.com) | [Projects](https://surya.vaddhiparthy.com/portfolio) | [Research](https://surya.vaddhiparthy.com/case-studies) | [LinkedIn](https://www.linkedin.com/in/vaddhiparthy) | [Email](mailto:surya@vaddhiparthy.com)
 
@@ -10,22 +10,27 @@ I build production-minded data systems that move from ingestion to trusted decis
 
 Current focus areas:
 
+- Batch pipeline orchestration with Airflow, Informatica IICS, and AWS Step Functions, with SLA-backed scheduling and failure recovery
 - Data platform architecture across ingestion, transformation, validation, orchestration, and serving layers
-- Analytics engineering with SQL/Python, warehouse modeling, dbt-style workflows, and data quality gates
+- Warehouse modeling and ELT with dbt on Snowflake and Redshift, with data quality gates and reconciliation controls
+- Regulatory reporting platform engineering on NASDAQ AxiomSL ControllerView with SOX and HIPAA controls
 - Privacy-aware audit pipelines, governed event processing, and traceable operational data products
 - Retrieval, RAG, and LLM evaluation systems where data quality and measurement matter
-- Cloud and containerized delivery with Docker, CI/CD, Terraform-style infrastructure, and Linux operations
+- Cloud and containerized delivery with Docker, CI/CD, Terraform, and Linux operations
 
 ## Core Stack
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, SQL, TypeScript, JavaScript |
-| Data Platforms | Snowflake, PostgreSQL, DuckDB, BigQuery, AWS S3 |
-| Orchestration | Airflow, scheduled jobs, workflow automation, GitHub Actions |
-| Transformation and Quality | dbt-style modeling, Great Expectations, data contracts, schema validation |
-| Services | FastAPI, Streamlit, Docker, Caddy, Linux |
-| AI and Retrieval | RAG pipelines, embedding models, retrieval evaluation, LLM workflow tooling |
+| Languages | Python, SQL, PySpark |
+| ETL / ELT | Informatica IICS/IDMC and PowerCenter, dbt, incremental loads, backfills |
+| Orchestration | Airflow, IICS taskflows, AWS Step Functions, Azure Data Factory, GitHub Actions |
+| Cloud | AWS (S3, Glue, Lambda, Step Functions, EMR, Athena), Azure, Databricks, Delta Lake |
+| Warehouses and Databases | Snowflake, Redshift, Teradata, Oracle, SQL Server, PostgreSQL, DuckDB |
+| Quality and Governance | Great Expectations, dbt tests, reconciliation, data lineage, data contracts, schema validation |
+| Regulatory | NASDAQ AxiomSL ControllerView, FR Y-9C, FFIEC, SOX, HIPAA |
+| Services | FastAPI, Streamlit, Docker, Terraform, Linux |
+| AI and Retrieval | LangChain, LangGraph, RAG pipelines, pgvector, Milvus, LLM evaluation |
 | Operations | Structured logging, runbooks, incident review, performance and cost monitoring |
 
 ## Selected Work
@@ -36,7 +41,7 @@ Current focus areas:
 
 An end-to-end banking-stress intelligence platform that turns free FDIC, FFIEC, and FRED public data into a calibrated early-warning read on U.S. bank distress. A governed DuckDB/dbt lakehouse (Great Expectations quality gates) feeds an out-of-time-validated, monotone, SHAP-explained LightGBM hazard model that scores each bank four-quarter distress probability, served via FastAPI, Streamlit surfaces, and a cited assistant.
 
-**Signals:** Airflow, dbt-style modeling, Great Expectations, Snowflake/DuckDB patterns, FastAPI, Streamlit, data platform documentation.
+**Signals:** Airflow, dbt, Great Expectations, Snowflake/DuckDB patterns, FastAPI, Streamlit, data platform documentation.
 
 ### Privacy-Preserving Authentication Audit Data Platform
 
@@ -98,9 +103,9 @@ A local-first iterative deep-research tool built on Ollama, with an interactive 
 
 - Designed data systems with stronger ingestion, modeling, validation, and serving contracts
 - Built reliability practices around structured logs, runbooks, failure isolation, and repeatable deployment
-- Worked on cost-aware warehouse and query-performance optimization
+- Cut cloud platform and compute costs 20 to 25 percent through warehouse right-sizing, partitioning, and query profiling
 - Connect data engineering fundamentals with AI/RAG systems without losing traceability or measurement
 
 ## Direction
 
-I am focused on senior data engineering roles where platform reliability, data quality, cloud data architecture, and AI-ready data products matter. My best work sits at the intersection of production data pipelines, governed analytics layers, and retrieval-aware systems.
+I am focused on data engineering and data platform roles where pipeline reliability, data quality, cloud data architecture, and regulatory-grade governance matter. My best work sits at the intersection of production batch pipelines, governed analytics layers, and retrieval-aware systems.
