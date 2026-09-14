@@ -39,65 +39,33 @@ Current focus areas:
 
 [Presentation](https://surya.vaddhiparthy.com/FinLens-Banking-Stress-Intelligence-Platform/) | [Repository](https://github.com/vaddhiparthy/FinLens-Banking-Stress-Intelligence-Platform)
 
-An end-to-end banking-stress intelligence platform that turns free FDIC, FFIEC, and FRED public data into a calibrated early-warning read on U.S. bank distress. A governed DuckDB/dbt lakehouse (Great Expectations quality gates) feeds an out-of-time-validated, monotone, SHAP-explained LightGBM hazard model that scores each bank four-quarter distress probability, served via FastAPI, Streamlit surfaces, and a cited assistant.
+End-to-end banking-stress intelligence platform that turns free FDIC, FFIEC, and FRED public data into a calibrated early-warning read on U.S. bank distress. A governed DuckDB/dbt lakehouse with Great Expectations quality gates feeds an out-of-time-validated LightGBM hazard model, served through FastAPI and Streamlit.
 
-**Signals:** Airflow, dbt, Great Expectations, Snowflake/DuckDB patterns, FastAPI, Streamlit, data platform documentation.
+**Signals:** Airflow, dbt, Great Expectations, Snowflake/DuckDB patterns, medallion layering, FastAPI, Docker, Terraform, GitHub Actions.
 
 ### Privacy-Preserving Authentication Audit Data Platform
 
 [Presentation](https://surya.vaddhiparthy.com/privacy-preserving-authentication-audit-data-platform/) | [Repository](https://github.com/vaddhiparthy/Privacy-Preserving-Authentication-Audit-Data-Platform)
 
-Authentication telemetry pipeline that ingests login events, pseudonymizes sensitive fields, persists structured audit data, and supports privacy-aware operational analysis.
+Authentication telemetry pipeline with SQS-compatible queue intake, versioned event contracts, HMAC tokenization of sensitive identifiers, PostgreSQL curated and quarantine tables, and batch-level audit evidence, reproducible locally through LocalStack and Docker Compose.
 
-**Signals:** Python ETL, queue-style intake, PostgreSQL, Docker, privacy engineering, audit evidence, data contracts.
+**Signals:** Python ETL, data contracts, PostgreSQL, Docker, privacy engineering, audit evidence, structured logging.
 
 ### Privacy-Aware Corpus Intelligence Pipeline
 
 [Presentation](https://surya.vaddhiparthy.com/Privacy-Aware-Corpus-Intelligence-Pipeline) | [Repository](https://github.com/vaddhiparthy/Privacy-Aware-Corpus-Intelligence-Pipeline)
 
-Data engineering and AI pipeline for corpus processing, governed text handling, and retrieval-oriented analytics. This project connects data platform discipline with modern AI/search workflows.
+Local-first pipeline separating public-safe text from sensitive content in large conversation archives, with deterministic PII detection, sensitive-domain routing, and auditable review artifacts.
 
-**Signals:** Python, corpus processing, governed data flow, retrieval-aware architecture, AI-ready data preparation.
+**Signals:** Python, streaming JSON processing, PII detection, Presidio, governed data flow.
 
-### Failure-Aware Metric Realignment for Post-Hoc Dense Retrieval
+### AI and Retrieval Research
 
-[Presentation](https://surya.vaddhiparthy.com/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval)
-
-Research-oriented retrieval evaluation project for legal QA and dense retrieval diagnostics. It explores failure-aware post-hoc transformation methods, grid-search evaluation, result persistence, and scientific reporting.
-
-**Signals:** Python, DuckDB, retrieval evaluation, legal RAG benchmarks, embeddings, experiment tracking, reproducible research artifacts.
-
-### Synthetic Credit Score Modeling
-
-[Repository](https://github.com/vaddhiparthy/Synthetic-Credit-Score-Modeling)
-
-Machine-learning project around synthetic credit data generation and credit scoring for thin-file borrowers.
-
-**Signals:** ML modeling, synthetic data, credit-risk framing, responsible data-product thinking.
-
-### Semantic Expert Routing Architecture
-
-[Repository](https://github.com/vaddhiparthy/Semantic-Expert-Routing-Architecture)
-
-Research-grade PyTorch scaffold for semantic expert routing in a compact mixture-of-experts model on small-compute environments, with teacher/student routers, centroid routing, load balancing, and observability helpers.
-
-**Signals:** LLM systems, mixture-of-experts, routing, model specialization, AI infrastructure experimentation.
-
-### Agentic Planning and Execution Intelligence Platform
-
-[Presentation](https://surya.vaddhiparthy.com/overthinker/) | [Repository](https://github.com/vaddhiparthy/Agentic-Planning-and-Execution-Intelligence-Platform)
-
-A FastAPI service that iteratively refines Markdown-based goals with an LLM and a rich persona file, maintaining per-goal files, appending timestamped progress, tracking iterations, and building an auditable plan-and-execute trail.
-
-**Signals:** FastAPI, LLM workflows, scheduling, PostgreSQL, agentic planning, progress tracking.
-
-### Iterative Research Intelligence Workbench
-
-[Repository](https://github.com/vaddhiparthy/Iterative-Research-Intelligence-Workbench)
-
-A local-first iterative deep-research tool built on Ollama, with an interactive web UI and human-in-the-loop feedback that nudges research directions across rounds.
-
-**Signals:** Python, Ollama/local LLMs, Docker, SQLite, interactive UI, human-in-the-loop research.
+- [Failure-Aware Metric Realignment for Post-Hoc Dense Retrieval](https://surya.vaddhiparthy.com/Failure-Aware-Metric-Realignment-for-Post-Hoc-Dense-Retrieval): retrieval evaluation for legal QA across CUAD, Legal RAG Bench, and MTEB Bar Exam QA.
+- [Agentic Planning and Execution Intelligence Platform](https://github.com/vaddhiparthy/Agentic-Planning-and-Execution-Intelligence-Platform): FastAPI service that iteratively refines goals with an LLM and an auditable plan-and-execute trail.
+- [Semantic Expert Routing Architecture](https://github.com/vaddhiparthy/Semantic-Expert-Routing-Architecture): PyTorch scaffold for semantic routing in a compact mixture-of-experts model.
+- [Iterative Research Intelligence Workbench](https://github.com/vaddhiparthy/Iterative-Research-Intelligence-Workbench): local-first deep-research tool on Ollama with human-in-the-loop feedback.
+- [Synthetic Credit Score Modeling](https://github.com/vaddhiparthy/Synthetic-Credit-Score-Modeling): Keras GAN prototype for synthetic credit features and thin-file scoring.
 
 ## Operating Strengths
 
